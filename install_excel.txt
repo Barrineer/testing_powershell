@@ -1,1 +1,1 @@
-Install-Module 
+Install-Module ImportExcel -Scope 'Add scope here $profile'
